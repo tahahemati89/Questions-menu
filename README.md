@@ -22,7 +22,7 @@ A lightweight, interactive FAQ accordion built with **HTML**, **Tailwind CSS**, 
 
 1. Clone this repository:
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone <https://github.com/tahahemati89/Questions-menu>
    ```
 2. Open the project folder in your code editor.
 3. If you want to edit the Tailwind classes, start the Tailwind CLI watch command configured for this project so the compiled CSS updates as you work.
